@@ -1,4 +1,4 @@
-# poland-industrial-sales-forecast-2005-2023
+# Poland-industrial-sales-forecast-2005-2023
 Forecasting Polish industrial sold production (GUS, 2005–2023) using deterministic trend models and Holt’s method; comparison via ex-ante forecast error and point forecasts for 2024–2025
 Industrial production forecasting (Poland, GUS)
 This project forecasts sold production of industry (total) in Poland using annual data from 2005–2023 (GUS).
